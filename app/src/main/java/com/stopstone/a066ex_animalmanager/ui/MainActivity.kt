@@ -1,10 +1,11 @@
-package com.stopstone.a066ex_animalmanager
+package com.stopstone.a066ex_animalmanager.ui
 
 import android.os.Bundle
 import androidx.activity.enableEdgeToEdge
 import androidx.appcompat.app.AppCompatActivity
 import androidx.core.view.ViewCompat
 import androidx.core.view.WindowInsetsCompat
+import com.stopstone.a066ex_animalmanager.R
 import com.stopstone.a066ex_animalmanager.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
